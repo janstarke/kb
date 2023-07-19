@@ -9,8 +9,8 @@ systemctl --user status firewall-identity-agent.service
 systemctl status oc-daemon.service
 ```
 
-### vim
-#### Settings
+## vim
+### Settings
 ```
 set ts=2
 set sw=2
